@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HOMESYS</string>
+    <string name="button_name_on">Mở máy</string>
+    <string name="button_name_off">Tắt máy</string>
+</resources>
